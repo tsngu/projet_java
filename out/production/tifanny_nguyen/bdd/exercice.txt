@@ -1,0 +1,124 @@
+FR:1:1:3:P001
+J'ai #un# chat.
+Mon amie achète #des# livres.
+Il y a #une# fleur sur #la# table.
+#Les# souris dansent.
+#Le# vase tombe.
+
+FR:1:1:3:P001
+Je m'#appelle# Géraldine.
+Il a 28 #ans#.
+Elle vient de #Nice#.
+Tu habites en #Angleterre#.
+Je suis #pilote#.
+
+FR:1:1:3:P001
+Je vais acheter des médicaments à la #pharmacie#.
+Il est parti se soigner à l'#hôpital#.
+Elle a emmené son chien chez le #vétérinaire#.
+Nous allons lire à la #bibliothèque#.
+Tu aimes aller manger au #restaurant#.
+
+FR:2:1:3:P001
+Il est allé à gauche #au lieu d#'aller à droite.
+#Bien qu#'elle soit riche, elle ne dépense jamais.
+Tu avais une belle coiffure #mais# la pluie a tout gâché.
+#Même si# il pleut, nous irons promener le chien.
+Elle a aimé le repas #malgré# le fait que ce soit un peu brûlé.
+
+FR:2:1:4:P001
+Il aime être #interessant#.
+Ce sont des films #interessants#.
+Sa robe est #bleue#.
+Le ciel est #bleu#.
+Ces fleurs sont #bleues# et #interessantes#.
+
+FR:2:1:4:P001
+Au vu de son âge, il ne voit #plus# très bien.
+Elle respire beaucoup #trop# rapidement.
+J'ai #trop# travaillé, donc j'ai dû prendre #un peu# de repos.
+Il y a #peu# de fruits disponibles.
+Tu me donnes toujours #plus# de chocolats.
+
+FR:3:1:5:P001
+L'#utilisateur# de cet #ordinateur# est un #homme# âgé d'une #cinquantaine# d'années.
+Rien n'est plus #satisfaisant# qu'un cercle #parfaitement# dessiné.
+Pour l'#auteur#, son premier #livre# est une #oeuvre# qu'il déteste.
+
+FR:3:1:6:P001
+Le #malware# de #rançonnage# est un type de malware qui empêche les #utilisateurs# d'accéder à leurs système/fichiers et exige une rançon en échange.
+Le #phising# fait croire à l'#utilisateur# qu'il est en contact avec une personne ou une compagnie de confiance pour pouvoir acquérir des #informations# sensibles.
+La #cybersécurité# aide à #protéger# les ordinateurs, serveurs, appareils mobiles, etc.
+
+VN:1:1:3:P002
+Tôi là người #Việt#.
+Anh ấy là #sình viên#.
+Mình sống ở #Hà Nội#.
+Nhà mình có #hai# con gà.
+Chị ấy 24 #tuổi#.
+
+VN:1:1:3:P002
+Mình #thích# đi chơi.
+Ông nội #uống# rượu.
+Bà ngoại #ăn# một tô phở.
+Chi ấy #muốn# mua táo.
+Anh #đi# du lịch, đi !
+
+VN:1:1:5:P002
+Ông #ngoại# là ba của má con.
+Bà #nội# là má của ba con.
+#Dì# là chị của má con.
+#Mợ# là vợ của anh trai má con.
+#Cô# là em gái của ba con.
+#Cậu# là anh má con.
+#Bác# là anh ba con.
+#Dượng# là chồng của chị má con.
+
+VN:2:1:3:P002
+Faim = #Đói#
+Faire cuire à l'eau = #Luộc#
+Frire = #Chiên#
+Mariner = #Ướp#
+Mixeur = Máy #xay#
+
+VN:2:1:3:P002
+#Journal# = Báo chí
+#Censure# = Sự kiểm duyệt
+#Article# = Bài báo
+#Social# = Xã hội
+#Web designer# = Người thiết kế Web
+
+VN:2:1:3:P002
+Hôm nay, mình đi #xem phim#.
+Anh ấy #đóng# trong một bộ phim rất nổi tiếng.
+Chúng ta đi mua #vé# xem phim #chiến tranh#.
+
+VN:3:1:5:P002
+Gieo #gió# gặt #bão#.
+#Ăn# miếng #trả# miếng.
+#Bé# ăn trộm #gà#, #già# ăn trộm #bò#.
+
+VN:3:1:4:P002
+Nếu bạn có dấu hiệu sốt, ho, hắt hơi, và khơ thở, bạn không cần tự cách ly tại nhà, deeo khẩu trang và gọi cho cơ sở y tế gần nhất dể được tư vấn, khám và điều trị. : #Faux#
+Phải thường xuyên rửa tay đúng cách bằng xà phòng : #Vrai#
+Nếu bênh, phải đeo khẩu trang nơi công cộng trên phương tiện giao thông công cộng và đến cơ sở y tế : #Vrai#
+Nếu bênh, phải tậ thể dục và ít ngủ : #Faux#
+
+VN:3:1:3:P002
+Hôm qua chị ấy cần #rút tiền# đi xem phim. Chị ấy đã đi ra #ngân hàng# dể tìm một máy #rút tiền#.
+Khi em cần #kiểm tra# emails của em hoặc #lướt web#, em thường đi nhà #chị họ# em.
+
+EN:1:1:3:P003
+My #name# is Maria.
+He #loves# driving his car so so much.
+I #like# eating.
+He #likes# playing.
+
+EN:1:1:3:P003
+My dad forgot #his# card.
+My mom forgot #her# card.
+They don't like #their# new shoes.
+We like #our# phones.
+
+FR:1:1:1:P001
+Ceci est le test #final# du menu modification

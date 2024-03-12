@@ -1,0 +1,4 @@
+E001, mdp1234, John, Doeuf, FR, 1, 0, 1
+E002, motdepasse, Alain, Verse, VN, 1, 2
+E003, mdp039, Samira, Pabien, VN, 3, 1
+E004, ghraz54=, Irrite, Sam, EN, 1
